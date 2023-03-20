@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+'ingrese el angulo en grados sexagesimales'
+5
+1
+6
+angulo
+6
+2
+7
+MedCent
+13
+angulo*(10/9)
+6
+MedRad
+19
+(angulo*3.1416)/180
+4
+1
+85
+'la medida en centesimal y radian es de: ',MedCent, ' y ', MedRad, ' respectivamente'
+1

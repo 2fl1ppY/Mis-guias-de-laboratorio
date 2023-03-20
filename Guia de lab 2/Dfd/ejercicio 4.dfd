@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Ingrese su saldo: '
+5
+1
+5
+saldo
+4
+1
+56
+'Indique el tipo de movimiento RETIRO(1)o DEPOSITO(2): '
+5
+1
+14
+tipomovimiento
+4
+1
+35
+'Ingrese el monto de transaccion: '
+5
+1
+5
+monto
+7
+0
+1
+16
+tipomovimiento=1
+6
+1
+14
+tipomovimiento
+1
+2
+6
+1
+10
+saldofinal
+11
+saldo+monto
+13
+6
+1
+10
+saldofinal
+11
+saldo-monto
+13
+4
+1
+36
+'Su saldo actual es de: ',saldofinal
+1

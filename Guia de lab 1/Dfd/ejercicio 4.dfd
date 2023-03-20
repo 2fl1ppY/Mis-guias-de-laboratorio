@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'ingrese el sueldo bruto'
+5
+1
+10
+sueldoBrut
+6
+3
+9
+descuento
+15
+SueldoBrut*0.12
+9
+sueldoNet
+20
+SueldoBrut-Descuento
+8
+quincena
+18
+(sueldoNet*40)/100
+6
+1
+10
+montoFinal
+18
+sueldoNet-quincena
+4
+1
+129
+'el descuento es: ',descuento, ' el sueldo neto es: ',sueldoNet, ' la quincena es: ',quincena,' y el monto final es: ',montoFinal
+1

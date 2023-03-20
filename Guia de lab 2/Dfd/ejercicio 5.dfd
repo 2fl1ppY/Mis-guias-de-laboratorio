@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'ingrese el valor del consumo'
+5
+1
+7
+consumo
+7
+0
+1
+12
+consumo<=100
+6
+1
+9
+descuento
+11
+consumo*0.2
+13
+6
+1
+9
+descuento
+11
+consumo*0.1
+13
+6
+2
+8
+impuesto
+24
+(consumo-descuento)*0.19
+7
+importe
+26
+consumo-descuento+impuesto
+4
+1
+29
+'su descuento es: ',descuento
+4
+1
+27
+'su impuesto es: ',impuesto
+4
+1
+33
+'el importe a pagar es: ',importe
+1

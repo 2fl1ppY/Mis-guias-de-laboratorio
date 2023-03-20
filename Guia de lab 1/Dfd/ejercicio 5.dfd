@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'ingrese la cantidad de soles'
+5
+1
+6
+dinero
+6
+3
+4
+b100
+17
+trunc(dinero/100)
+5
+resto
+21
+trunc(dinero mod 100)
+3
+b50
+15
+trunc(resto/50)
+6
+3
+5
+resto
+19
+trunc(resto mod 50)
+3
+b10
+15
+trunc(resto/10)
+5
+resto
+19
+trunc(resto mod 10)
+6
+1
+2
+m1
+5
+resto
+4
+1
+101
+'billetes de 100: ',b100, ' billetes de 50: ',b50, ' billetes de 10: ',b10, ' monedas de un sol: ',m1
+1

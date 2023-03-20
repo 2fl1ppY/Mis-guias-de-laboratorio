@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'ingrese las 3 notas del estudiante'
+5
+1
+5
+T,M,F
+6
+3
+2
+T1
+6
+T*0.50
+2
+M2
+6
+M*0.20
+2
+F2
+6
+F*0.30
+6
+1
+7
+NotaFIn
+8
+T1+M2+F2
+7
+0
+1
+25
+NotaFin>=0 and NotaFin<=5
+7
+0
+1
+26
+NotaFin>=6 and NotaFin<=10
+7
+0
+1
+27
+NotaFin>=11 and NotaFin<=15
+4
+1
+42
+'el estudiante esta catalogado como bueno'
+13
+4
+1
+44
+'el estudiante esta catalogado como regular'
+13
+13
+4
+1
+41
+'el estudiante esta catalogado como malo'
+13
+13
+4
+1
+43
+'el estudiante esta catalogado como pesimo'
+13
+1

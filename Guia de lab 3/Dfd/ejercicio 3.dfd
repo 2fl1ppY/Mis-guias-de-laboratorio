@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'digite los 5 numeros'
+5
+1
+9
+a,b,c,d,e
+7
+0
+1
+27
+a>b and a>c and a>d and a>e
+7
+0
+1
+27
+b>c and b>a and b>d and b>e
+7
+0
+1
+27
+c>b and c>a and c>d and c>e
+7
+0
+1
+27
+d>b and d>c and d>a and d>e
+7
+0
+1
+27
+e>b and e>c and e>d and e>a
+13
+6
+1
+5
+mayor
+1
+e
+13
+13
+6
+1
+5
+mayor
+1
+d
+13
+13
+6
+1
+5
+mayor
+1
+c
+13
+13
+6
+1
+5
+mayor
+1
+b
+13
+13
+6
+1
+5
+mayor
+1
+a
+13
+4
+1
+28
+'el numero mayor es: ',mayor
+1

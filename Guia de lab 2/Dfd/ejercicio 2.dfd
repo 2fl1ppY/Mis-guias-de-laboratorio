@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'inserte los minutos'
+5
+1
+7
+minutos
+4
+1
+19
+'inserte las horas'
+5
+1
+5
+horas
+6
+1
+8
+duracion
+18
+(horas*60)+minutos
+7
+0
+1
+12
+duracion<=3 
+6
+1
+5
+costo
+22
+((duracion-3)*0.1)+0.5
+13
+6
+1
+5
+costo
+3
+0.5
+13
+4
+1
+39
+'el costo de la llamada es: ', duracion
+1

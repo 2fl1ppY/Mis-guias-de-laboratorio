@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'ingrese la cantidad de personas que asistieron a la reunion'
+5
+1
+8
+personas
+6
+1
+9
+apretones
+23
+personas*(personas-1)/2
+4
+1
+50
+'hubieron un total de: ', apretones, ' aprestones'
+1

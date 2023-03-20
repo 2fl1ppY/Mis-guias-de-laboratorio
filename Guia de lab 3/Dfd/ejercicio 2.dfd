@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'ingrese el numero de ventas del vendedor'
+5
+1
+6
+ventas
+7
+0
+1
+25
+ventas>=0 and ventas<=200
+7
+0
+1
+28
+ventas>=200 and ventas<=1000
+7
+0
+1
+29
+ventas>=1000 and ventas<=2000
+7
+0
+1
+29
+ventas>=2000 and ventas<=3000
+7
+0
+1
+29
+ventas>=3000 and ventas<=4000
+6
+1
+8
+comision
+11
+ventas*0.30
+13
+6
+1
+8
+comision
+11
+ventas*0.25
+13
+13
+6
+1
+8
+comision
+11
+ventas*0.20
+13
+13
+6
+1
+8
+comision
+11
+ventas*0.15
+13
+13
+6
+1
+8
+comision
+11
+ventas*0.10
+13
+13
+6
+1
+8
+comision
+1
+0
+13
+4
+1
+43
+'la comision del vendedor es de: ',comision
+1
